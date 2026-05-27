@@ -1,0 +1,16 @@
+{
+  "name": "delivery-api",
+  "version": "1.0.0",
+  "description": "Sistema de Delivery Refatorado - Arquitetura MVC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": ["delivery", "pizza", "mvc"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
